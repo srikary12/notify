@@ -19,12 +19,12 @@ require (
 	github.com/dghubble/oauth1 v0.7.3
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible
 	github.com/line/line-bot-sdk-go v7.8.0+incompatible
-	github.com/mailgun/mailgun-go/v4 v4.22.1
+	github.com/mailgun/mailgun-go/v5 v5.6.2
 	github.com/plivo/plivo-go/v7 v7.57.1
 	github.com/sendgrid/sendgrid-go v3.16.0+incompatible
 	github.com/silenceper/wechat/v2 v2.1.7
 	github.com/slack-go/slack v0.16.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/textmagic/textmagic-rest-go-v2/v2 v2.0.23575
 	github.com/utahta/go-linenotify v0.5.0
 	golang.org/x/sync v0.11.0
@@ -45,6 +45,7 @@ require (
 	github.com/PagerDuty/go-pagerduty v1.8.0
 	github.com/caarlos0/go-reddit/v3 v3.0.1
 	github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible
+	github.com/mailgun/mailgun-go/v4 v4.23.0
 	google.golang.org/api v0.215.0
 )
 
@@ -70,7 +71,7 @@ require (
 	github.com/envoyproxy/go-control-plane v0.13.1 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.1.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
-	github.com/go-chi/chi/v5 v5.2.0 // indirect
+	github.com/go-chi/chi/v5 v5.2.3 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
